@@ -1,7 +1,8 @@
-Language and SQL
+Language and SQL and Pictures
 C
 C++
 JAVA
 JAVASCRIPT
 JQuery
 CSS
+Apple picture
