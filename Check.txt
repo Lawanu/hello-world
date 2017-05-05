@@ -7,3 +7,4 @@ JQuery
 CSS
 Perl
 Ruby
+Python
