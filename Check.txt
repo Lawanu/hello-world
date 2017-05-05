@@ -1,4 +1,4 @@
-Language and SQL
+Language and SQL and os
 C
 C++
 JAVA
@@ -7,3 +7,4 @@ JQuery
 CSS
 Perl
 Ruby
+Mac
